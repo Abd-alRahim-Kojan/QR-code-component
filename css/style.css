@@ -43,7 +43,7 @@ body {
 .card {
   width: 250px;
   background-color: var(--White);
-  margin: 70% auto;
+  margin: 250px auto;
   padding: 12px;
   text-align: center;
   border-radius: 15px;
