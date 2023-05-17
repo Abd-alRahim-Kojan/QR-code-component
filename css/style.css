@@ -43,7 +43,7 @@ body {
 .card {
   width: 250px;
   background-color: var(--White);
-  margin: 30px auto;
+  margin: 70% auto;
   padding: 12px;
   text-align: center;
   border-radius: 15px;
@@ -61,7 +61,7 @@ body {
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
 }
-.card h2 {
+.card h1 {
   font-size: 16px;
   font-weight: 700;
   padding: 15px 12px 12px 12px;
